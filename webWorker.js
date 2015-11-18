@@ -1,6 +1,6 @@
-﻿importScripts("http://localhost:59719/Scripts/knockout-2.0.0.js");
-importScripts("http://localhost:59719/Scripts/Knockout-projection.js");
-importScripts("http://localhost:59719/Scripts/komapping.js")
+﻿importScripts("https://raw.githubusercontent.com/Leojoys/ContentWorker/master/knockout-2.0.0.js");
+importScripts("https://raw.githubusercontent.com/Leojoys/ContentWorker/master/Knockout-projection.js");
+importScripts("https://raw.githubusercontent.com/Leojoys/ContentWorker/master/komapping.js")
 BlurbStatus = {
     New: 1,
     Unapproved: 2,
